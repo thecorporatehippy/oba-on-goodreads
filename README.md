@@ -27,7 +27,7 @@ A small box under the *Want to Read* button on the book page:
 
 1. Install [Tampermonkey](https://www.tampermonkey.net/) for your browser.
 2. **Chrome / Edge only:** go to `chrome://extensions`, click **Details** on Tampermonkey and turn on **Allow User Scripts**. On older versions, turn on **Developer mode** instead. Without this, the script silently does nothing.
-3. Open the [raw script](https://github.com/YOUR-USERNAME/REPO-NAME/raw/main/goodreads-oba-availability.user.js). Tampermonkey will offer to install it.
+3. Open the [raw script](https://github.com/thecorporatehippy/oba-on-goodreads/blob/main/goodreads-oba-availability.user.js). Tampermonkey will offer to install it.
 4. Open any Goodreads book page. The first time, Tampermonkey asks permission to connect to `zoeken.oba.nl`: choose **Always allow domain**.
 
 ## Troubleshooting
